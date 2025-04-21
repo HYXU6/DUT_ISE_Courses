@@ -1,3 +1,11 @@
+# DUT_ISE_Courses
+## 注意
+本仓库克隆了[主REPO](https://github.com/NAOSI-DLUT/DLUT_SE_Courses)
+## 前言
+由于原仓库已经移置大工云盘，但是我更喜欢github的交互，所以有了开创这个仓库的想法。
+
+---
+
 # DLUT_ISE_Courses
 
 # 大连理工大学软国课程攻略
